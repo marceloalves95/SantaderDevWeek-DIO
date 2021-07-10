@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SantaderDevWeek-DIO</string>
+    <string name="title_home">Home</string>
+    <string name="notificacao">Notificação</string>
+    <string name="saldo_disponivel">Saldo Disponível</string>
+    <string name="ver_extrato">Ver Extrato</string>
+    <string name="pagar">Pagar</string>
+    <string name="transferir">Transferir</string>
+    <string name="recarga">Recarregar</string>
+    <string name="cartao_final">Cartão Final:</string>
+    <string name="limite">Saldo - Limite:</string>
+</resources>
